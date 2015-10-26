@@ -1,0 +1,18 @@
+body {
+    border:2px solid black;
+    background-color:gray;
+}
+ul li {
+    list-style-type:square;
+}
+hr {
+    border:1px solid black;
+}
+.text {
+    font-family:;
+    padding:20px;
+    color:blue;
+}
+.titre {
+    text-align:center;
+}
