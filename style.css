@@ -6,19 +6,19 @@ body {
     width: 600px;
     display: block;
     margin: 7px;
-    
+
     border-color: #000000;
     border-style: solid;
     border-width: 1px;
-    
+
     background-color: #f7f7f7;
 }
 ul li {
     list-style-type: square;
 }
 .text {
-    padding: 27px;
-    
+    padding: 17px;
+
     color: #00008b;
     font-family: "Arial", sans-serif;
 }
@@ -26,5 +26,5 @@ ul li {
     text-align: center;
 }
 .underline {
-    text-decoration: underline;   
+    text-decoration: underline;
 }
